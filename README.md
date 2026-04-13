@@ -68,7 +68,7 @@ The smart contract manages a trade lifecycle through clearly defined steps:
 ```
 CCOT7XUEGV2EASJ72DMWVKZPU4Q3GETM362B2QORV6UZ73QMJN25D4KS
 ```
-
+https://stellar.expert/explorer/testnet/contract/CCOT7XUEGV2EASJ72DMWVKZPU4Q3GETM362B2QORV6UZ73QMJN25D4KS
 ---
 
 ## 🛠 Tech Stack
